@@ -1,7 +1,9 @@
-[project]
+u[project]
 name = "django-tac-tac-toe"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "django>=5.1.2",
+]
