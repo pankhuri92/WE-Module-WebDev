@@ -1,4 +1,4 @@
-u[project]
+[project]
 name = "django-tac-tac-toe"
 version = "0.1.0"
 description = "Add your description here"
